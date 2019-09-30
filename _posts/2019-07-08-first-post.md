@@ -3,6 +3,7 @@ title: "Hello World"
 date: 2019-07-08 16:23:28 -0400
 categories: jekyll update
 ---
+야야야야야
 
 xcode 에러
 
